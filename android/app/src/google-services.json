@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "34175516631",
+    "project_id": "signup-2d5c2",
+    "storage_bucket": "signup-2d5c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34175516631:android:75ef04034fe5a23c539592",
+        "android_client_info": {
+          "package_name": "com.example.river_pod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34175516631-7eiq9rpepu8n4sldsu07l1qslt43klbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.river_pod",
+            "certificate_hash": "272c8cb26231f2c879b5965391e535c9139576ed"
+          }
+        },
+        {
+          "client_id": "34175516631-em869ej9t91mtdm50fpl35nsvr51mqdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCksPwPIccQUbPb9TbWQnjuHKhwHe8YJuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34175516631-em869ej9t91mtdm50fpl35nsvr51mqdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
